@@ -25,8 +25,10 @@ Add JavaScript inline (using <script> tags) that does the following:
 <script>
     var name= "Antario";
     var age=22;
-    console.log("My name is "+name+ "and I am"+ age);
+    console.log("My name is "+name+ " and I am "+ age);
 </script>
 
 </body>
 </html>
+
+### KEY - Good work! Remember to add spaces to your output to improve readability
